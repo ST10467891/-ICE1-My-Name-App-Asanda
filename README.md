@@ -4,7 +4,7 @@
   - HAW1-Group2
   - MAST5112
 ## Link to repository: https://github.com/ST10467891/-ICE1-My-Name-App-Asanda.git
-##App Setup Process
+## App Setup Process
 I started by creating a main folder and a subfolder using the Explorer in Visual Studio Code. Inside the project, I worked with the App.tsx file and wrote the code in TypeScript.
 Next, I used Terminal 1 and the Integrated Terminal to run and monitor the app. After writing the code, I loaded the app using BlueStacks. Once everything was set up correctly, the app ran successfully and functioned as expected.
 ## Reflection
